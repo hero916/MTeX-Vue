@@ -1,4 +1,4 @@
-# mtex-vue-new
+# mtex-vue
 
 ## Project setup
 ```
